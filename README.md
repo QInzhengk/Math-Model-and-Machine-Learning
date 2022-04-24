@@ -1,4 +1,4 @@
-# Math-Model-and-Machine-Learning
+# 数学建模和机器学习
 ## 简介
 
 > :smiley: 此项目为自学数学建模和机器学习的分享，整理了许多笔记和资料。
@@ -18,3 +18,10 @@
 3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 上传到您的分支中 (`git push origin your_branch`)
 5. 创建拉取请求，请参阅 如何[创建拉取请求](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)。
+
+## ☕  鸣谢
+
+感谢以下参考的帮助：
+
+- [后续更新完将会完善这一部分]()
+
