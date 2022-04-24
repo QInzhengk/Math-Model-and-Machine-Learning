@@ -1,0 +1,67 @@
+tulun1.m
+weight=    [0     2     8     1   Inf   Inf   Inf   Inf   Inf   Inf   Inf;
+            2     0     6   Inf     1   Inf   Inf   Inf   Inf   Inf   Inf;
+            8     6     0     7     5     1     2   Inf   Inf   Inf   Inf;
+            1   Inf     7     0   Inf   Inf     9   Inf   Inf   Inf   Inf;
+          Inf     1     5   Inf     0     3   Inf     2     9   Inf   Inf;
+          Inf   Inf     1   Inf     3     0     4   Inf     6   Inf   Inf;
+          Inf   Inf     2     9   Inf     4     0   Inf     3     1   Inf;
+          Inf   Inf   Inf   Inf     2   Inf   Inf     0     7   Inf     9;
+          Inf   Inf   Inf   Inf     9     6     3     7     0     1     2;
+          Inf   Inf   Inf   Inf   Inf   Inf     1   Inf     1     0     4;
+          Inf   Inf   Inf   Inf   Inf   Inf   Inf     9     2     4     0;];
+[dis, path]=dijkstra(weight,1, 11)
+
+
+dijkstra.m
+function [min,path]=dijkstra(w,start,terminal)
+n=size(w,1); label(start)=0; f(start)=start;
+for i=1:n
+   if i~=start
+       label(i)=inf;
+end, end
+s(1)=start; u=start;
+while length(s)<n
+   for i=1:n
+      ins=0;
+      for j=1:length(s)
+         if i==s(j)
+            ins=1;
+         end,  
+      end
+      if ins==0
+         v=i;
+         if label(v)>(label(u)+w(u,v))
+            label(v)=(label(u)+w(u,v)); 
+         f(v)=u;
+         end, 
+      end, 
+   end   
+v1=0;
+   k=inf;
+   for i=1:n
+         ins=0;
+         for j=1:length(s)
+            if i==s(j)
+               ins=1;
+            end, 
+         end
+         if ins==0
+            v=i;
+            if k>label(v)
+               k=label(v);  v1=v;
+            end,  
+         end,  
+   end
+   s(length(s)+1)=v1;  
+   u=v1;
+end
+min=label(terminal); path(1)=terminal;
+i=1; 
+while path(i)~=start
+      path(i+1)=f(path(i));
+      i=i+1 ;
+end
+path(i)=start;
+L=length(path);
+path=path(L:-1:1);
