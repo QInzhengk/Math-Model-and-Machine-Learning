@@ -1,3 +1,2 @@
-Python 数据分析与应用-PPT
-Python 数据分析与应用-data
-Python 数据分析与应用-Code
+- [Python 数据分析与应用](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- 公众号：数学建模分享
