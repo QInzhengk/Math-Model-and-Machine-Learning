@@ -1,1 +1,11 @@
 ## 公众号：数学建模分享
+- [量化投资  数据挖掘技术与实践 MATLAB](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB R2016a完全自学一本通](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB函数库查询辞典](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB数学建模方法与实践  第3版](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB数学建模经典案例实战](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB与数学建模](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [大数据挖掘：系统方法与实例分析](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [实战大数据  MATLAB数据挖掘详解与实践](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- [MATLAB与数学建模](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
+- 公众号：数学建模分享
