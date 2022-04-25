@@ -28,4 +28,12 @@
 ### Mac
 - [notion-zh_CN-main](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [EasyConnect_7_6_7_3](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
-
+### Java
+- [myeclipse](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [vc++6.0安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [jdk-8u251-windows-x64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [jdk-8u211-macosx-x64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [jdk api 1.8_google](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [ecplise-yingwen](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [eclipse-zhongwen](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [eclipse-jee-mars-2-win32-x86_64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
