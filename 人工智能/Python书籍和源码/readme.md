@@ -12,5 +12,7 @@
 - [机器学习实战（中文版+源代码）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [阿里云天池大赛赛题解析——机器学习篇](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Python预测之美 数据分析与算法实战](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
-- [技术详解与商业实践](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
-- 
+- [Python大数据分析从入门到精通](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python3入门人工智能-掌握机器学习深度学习并提升实战能力](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python3入门机器学习 经典算法与应用 轻松入行人工智能](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+
