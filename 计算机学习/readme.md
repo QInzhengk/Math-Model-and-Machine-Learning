@@ -21,5 +21,11 @@
 - - [高效有趣学Excel，轻松入门到高阶](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [Word从零基础到高手](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [教你零基础做出高逼格PPT](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
-
+### NavicatforMySQL_15.0.25_Crack
+### MATLAB
+- [Matlab R2016a 64位](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [MATLABR2018a](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+### Mac
+- [notion-zh_CN-main](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [EasyConnect_7_6_7_3](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 
