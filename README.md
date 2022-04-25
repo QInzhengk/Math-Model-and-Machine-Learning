@@ -25,6 +25,11 @@
 
 ```
 目前所有数学建模比赛的题目和优秀论文，以及大于25M的文件都未进行上传，可以通过公众号进行获取：数学建模分享
+<p align="left">
+<a href="https://github.com/DongZhouGu/MathModel-Pretrain" target="_blank">
+	<img src="https://cdn.jsdelivr.net/gh/dongzhougu/imageuse1/img20211231164708.png#pic_center" width=""/>
+</a>
+</p>
 ```
 
 ## 📫 如何参与开源项目
