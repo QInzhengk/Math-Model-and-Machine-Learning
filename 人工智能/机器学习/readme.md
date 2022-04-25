@@ -7,4 +7,11 @@
 - [大数据处理框架Apache  Spark设计与实现](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Linux shell 命令行及脚本编程实例详解](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Hadoop权威指南 大数据的存储与分析-第4版-修订版-升级版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
-
+## 学习笔记
+- [Python redis 使用(笔记)](https://zhuanlan.zhihu.com/p/497882708)
+- [Shell脚本入门（笔记）](https://zhuanlan.zhihu.com/p/497882708)
+- [Spark笔记（pyspark）](https://zhuanlan.zhihu.com/p/463537198)
+- [Linux常用基本命令](https://zhuanlan.zhihu.com/p/463242263)
+- [Linux jq 、vim以及LInux集群安装miniconda并配置虚拟环境（笔记）](https://zhuanlan.zhihu.com/p/459909875)
+- [Mac Git配置SSH和Git常用命令及iTerm2使用技巧](https://zhuanlan.zhihu.com/p/450042165)
+- [aws s3常用命令、hdfs dfs/hadoop fs常用命令](https://zhuanlan.zhihu.com/p/450037966)
