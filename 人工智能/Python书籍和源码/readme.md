@@ -1,1 +1,16 @@
 ## Python书籍和源码
+- [深入浅出Python机器学习](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [机器学习-周志华](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Spark快速大数据分析2E-随书代码包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python数据科学技术详解与商业实践](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python数据分析与挖掘实战（第2版）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python大数据分析与机器学习商业案例实战源代码](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [百面机器学习：算法工程师带你去](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [《深度学习》伊恩·古德费洛 等 (作者)](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python大数据分析与机器学习_PPT](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [机器学习算法竞赛实战书籍代码整理_完整版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [机器学习实战（中文版+源代码）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [阿里云天池大赛赛题解析——机器学习篇](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python预测之美 数据分析与算法实战](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [技术详解与商业实践](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- 
