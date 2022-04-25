@@ -18,3 +18,5 @@
 ## 学习笔记
 - [笔记-Python最优化算法实战（Gurobi）](https://zhuanlan.zhihu.com/p/336904955)
 - [Python预测 数据分析与算法 学习笔记（特征工程、时间序列）](https://blog.csdn.net/qq_45832050/article/details/124270609)
+- [笔记-Python爬虫技术基础及爬取百度新闻](https://zhuanlan.zhihu.com/p/336903590)
+- [Python数据可视化matplotlib和pyecharts参数详解](https://zhuanlan.zhihu.com/p/273263576Python数据可视化matplotlib和pyecharts参数详解)
