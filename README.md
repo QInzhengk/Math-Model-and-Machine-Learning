@@ -26,7 +26,7 @@
 ```
 目前所有数学建模比赛的题目和优秀论文，以及大于25M的文件都未进行上传，可以通过公众号进行获取：数学建模分享
 ```
-![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
 
 ## 📫 如何参与开源项目
 
