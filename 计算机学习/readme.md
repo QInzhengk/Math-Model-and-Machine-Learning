@@ -49,3 +49,5 @@
 - [Adobe Acrobat DC 2018 SP](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [PS2020](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [林清学院vip基础班ps教程+学习素材](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+## 学习笔记
+- [ACM模式之输入输出（Java/Python例题）](https://zhuanlan.zhihu.com/p/438909352)
