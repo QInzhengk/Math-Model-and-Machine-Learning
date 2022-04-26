@@ -1,3 +1,4 @@
+# https://github.com/QInzhengk/Math-Model-and-Machine-Learning
 # 适合初学者快速入门的Numpy实战全集
 
 Numpy是一个用python实现的科学计算的扩展程序库，包括：
