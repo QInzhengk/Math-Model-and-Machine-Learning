@@ -1,4 +1,4 @@
-# 数学建模和机器学习
+# 数学建模与机器学习
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
@@ -25,7 +25,7 @@
 
 ```
 目前所有大于25M的文件都未进行上传
-可以通过公众号进行获取：数学建模分享
+可以通过公众号进行获取：数学建模与人工智能
 学习交流群：970716977
 ```
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
