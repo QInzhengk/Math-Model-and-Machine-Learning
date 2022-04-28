@@ -62,7 +62,7 @@ filetree
   <tr>
     <td align="center">
       <a href="https://github.com/QInzhengk">
-        <img src="" width="100px;"/><br>
+        <img src="https://avatars.githubusercontent.com/u/49054536?v=4" width="100px;"/><br>
         <sub>
           <b>QZK</b>
         </sub>
@@ -72,7 +72,7 @@ filetree
       <a href="">
         <img src="" width="100px;"/><br>
         <sub>
-          <b>LX</b>
+          <b></b>
         </sub>
       </a>
     </td>
