@@ -25,15 +25,18 @@
 
 ```
 filetree 
-├── README.md       你现在看到的内容
-└── 建模算法         各种机器学习的demo和代码
-└── 论文模板         2021论文word模板
-└── 实用工具         一些值得分享的工具或网站
-└── 杂七杂八         经验、PPT资料等
-└── code  
-    └── 历年赛题         整理搜罗的历年赛题代码
-    └── tmp		团队初期用于学习的代码
-
+├── README.md       资料介绍
+└── 人工智能         各种机器学习的资料
+└── 数学         大学生数学竞赛和阿里巴巴数学竞赛题目和答案
+└── 数学建模         数学建模论文和算法......
+    └── 各个比赛的赛题和优秀论文
+    └── 数学建模书籍		
+    └── 数学建模模板		
+    └── 数学建模算法		
+    └── 数学建模课件		
+└── 计算机学习         Java、Office、小程序......
+└── picture         微信公众号（数学建模与人工智能）二维码和QQ群（数学建模与大数据竞赛学习交流）二维码  
+    
 目前所有大于25M的文件都未进行上传
 可以通过公众号进行获取：数学建模与人工智能
 学习交流群：970716977
@@ -50,6 +53,31 @@ filetree
 3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
 4. 上传到您的分支中 (`git push origin your_branch`)
 5. 创建拉取请求，请参阅 如何[创建拉取请求](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)。
+
+## 🤝 贡献者
+
+感谢以下对这个项目做出贡献的人：
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/QInzhengk">
+        <img src="" width="100px;"/><br>
+        <sub>
+          <b>QZK</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="100px;"/><br>
+        <sub>
+          <b>LX</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## ☕  鸣谢
 
