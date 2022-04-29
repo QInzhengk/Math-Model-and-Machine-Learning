@@ -125,5 +125,6 @@ filetree
 
 - [https://github.com/NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
 - [https://github.com/datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)
+- [天池AI课程](https://tianchi.aliyun.com/course?spm=5176.12281949.J_3941670930.11.493e2448jIN01m)
 - [后续更新完将会完善这一部分]()
 
