@@ -1,4 +1,4 @@
-## 公众号：数学建模分享
+## 公众号：数学建模与人工智能
 - [量化投资  数据挖掘技术与实践 MATLAB](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
 - [MATLAB R2016a完全自学一本通](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
 - [MATLAB函数库查询辞典](https://mp.weixin.qq.com/s?__biz=MzI5MTY1MzU1Mg==&amp;mid=2247487303&amp;idx=1&amp;sn=a2bdb7260d6508655e5da4366817744a&amp;scene=19&token=57447911&lang=zh_CN#wechat_redirect)
