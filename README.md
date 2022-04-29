@@ -123,5 +123,7 @@ filetree
 
 感谢以下参考的帮助：
 
+- [https://github.com/NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+- [https://github.com/datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)
 - [后续更新完将会完善这一部分]()
 
