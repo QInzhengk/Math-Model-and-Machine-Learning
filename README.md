@@ -20,6 +20,7 @@
 
 - [ ] 数学建模竞赛题目和优秀论文
 - [x] 整理仓库
+- [ ] 博客测试：https://qzkq.github.io/MathModel/
 
 ## 💻 项目说明
 
