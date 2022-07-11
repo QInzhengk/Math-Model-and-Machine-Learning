@@ -1,3 +1,3 @@
 DataWhale FunRec
 
-- [https://github.com/NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)
+- [https://datawhalechina.github.io/fun-rec/#/](https://datawhalechina.github.io/fun-rec/#/)
