@@ -25,6 +25,9 @@
 
 [幸运藏在努力里](https://qzkq.github.io/)
 
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/blog_banner.jpg)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/detail.jpg)
+
 ## 💻 项目说明
 
 ```
