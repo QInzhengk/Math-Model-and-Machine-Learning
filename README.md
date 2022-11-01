@@ -27,11 +27,11 @@
 
 [微信公众号定时推送消息](https://github.com/QInzhengk/the_milky_way)
 
-![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/微信.jpg)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/b4ac77a4c2e514c793e554038a64dbc5e4fd5208/picture/%E5%BE%AE%E4%BF%A1.jpg)
 
 [钉钉群聊机器人定时推送消息](https://github.com/QInzhengk/galaxy)
 
-![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/钉钉.jpg)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/b4ac77a4c2e514c793e554038a64dbc5e4fd5208/picture/%E9%92%89%E9%92%89.jpg)
 
 ## 💻 项目说明
 
