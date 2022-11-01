@@ -25,6 +25,11 @@
 
 [幸运藏在努力里](https://qzkq.github.io/)
 
+[微信公众号定时推送消息](https://github.com/QInzhengk/the_milky_way)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
+[钉钉群聊机器人定时推送消息](https://github.com/QInzhengk/galaxy)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
+
 ## 💻 项目说明
 
 ```
