@@ -23,13 +23,16 @@
 
 ## :whale: [博客](https://github.com/qzkq/qzkq.github.io)
 
-[幸运藏在努力里](https://qzkq.github.io/)
+[一、幸运藏在努力里](https://qzkq.github.io/)
 
-[微信公众号定时推送消息](https://github.com/QInzhengk/the_milky_way)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/a30048cee0f342525009bd2b03b4f4bfbce47305/picture/blog_banner.jpg)
+![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/a30048cee0f342525009bd2b03b4f4bfbce47305/picture/detail.jpg)
+
+[二、微信公众号定时推送消息](https://github.com/QInzhengk/the_milky_way)
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/b4ac77a4c2e514c793e554038a64dbc5e4fd5208/picture/%E5%BE%AE%E4%BF%A1.jpg)
 
-[钉钉群聊机器人定时推送消息](https://github.com/QInzhengk/galaxy)
+[三、钉钉群聊机器人定时推送消息](https://github.com/QInzhengk/galaxy)
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/b4ac77a4c2e514c793e554038a64dbc5e4fd5208/picture/%E9%92%89%E9%92%89.jpg)
 
