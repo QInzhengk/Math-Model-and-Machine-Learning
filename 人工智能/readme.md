@@ -9,6 +9,7 @@
 - [Python3实战Spark大数据分析及调度](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Spark2.x+协同过滤算法，开发企业级个性化推荐系统](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [全局视角系统学习《推荐系统》，实战中提升竞争力](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Python全能工程师2022版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ## 调参
 - [深度学习中的超参数调节（learning rate、epochs、batch-size...）](https://zhuanlan.zhihu.com/p/433836153)
 - [决策树、随机森林、GBDT、LightGBM和XGBoost的重要参数以及调整策略](https://zhuanlan.zhihu.com/p/418992334)
