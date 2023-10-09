@@ -118,17 +118,17 @@ filetree
   <tr>
     <td align="center">
       <a href="https://github.com/QInzhengk">
-        <img src="https://avatars.githubusercontent.com/u/49054536?v=4" width="100px;"/><br>
+        <img src="https://avatars.githubusercontent.com/u/49054536?v=4" width="200px;"/><br>
         <sub>
           <b>QZK</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="" width="100px;"/><br>
+      <a href="https://www.zhihu.com/people/qin-zheng-kai-89">
+        <img src="https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/56c9a02c6f026402e0991553edb4e8c06f6261c5/picture/zanshangma.jpg" width="200px;"/><br>
         <sub>
-          <b></b>
+          <b>感谢支持</b>
         </sub>
       </a>
     </td>
