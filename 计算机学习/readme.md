@@ -5,6 +5,7 @@
 - [Gurobi-9.1.0-win64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [BANDIZIP6-SETUP](https://zhuanlan.zhihu.com/p/354261429)
 - [typora-0-11-18](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Pandoc 3.2.1](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### SPSS
 - [SPSS 24 64位安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [SPSS+22.0统计分析从入门到精通（视频+数据）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
