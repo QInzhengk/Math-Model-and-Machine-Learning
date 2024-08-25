@@ -4,3 +4,6 @@
 - [2020 年河北省第三届研究生数学建模竞赛B题 交通检测器数据质量控制及预测（二等）](https://zhuanlan.zhihu.com/p/361697617)
 ### [如何写数学建模竞赛论文](https://zhuanlan.zhihu.com/p/158130281)
 ### [历年的数学建模国赛论文在哪里下载？ - 回答（知乎）](https://www.zhihu.com/question/465598033/answer/1945754618)
+
+### [Datawhale 数学建模教程](https://datawhalechina.github.io/intro-mathmodel/#/)
+
