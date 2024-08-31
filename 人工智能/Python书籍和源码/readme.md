@@ -15,6 +15,7 @@
 - [Python大数据分析从入门到精通](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Python3入门人工智能-掌握机器学习深度学习并提升实战能力](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Python3入门机器学习 经典算法与应用 轻松入行人工智能](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [机器学习方法](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ## 学习笔记
 - [笔记-Python最优化算法实战（Gurobi）](https://zhuanlan.zhihu.com/p/336904955)
 - [Python预测 数据分析与算法 学习笔记（特征工程、时间序列）](https://blog.csdn.net/qq_45832050/article/details/124270609)
