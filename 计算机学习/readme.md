@@ -46,6 +46,7 @@
 - - [Java 开发资源库](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### EndNoteX9
 ### 编程必备基础 计算机组成原理+操作系统+计算机网络
+### https://github.com/datawhalechina
 ### Adobe
 - [Adobe Acrobat DC 2018 SP](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [PS2020](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
