@@ -6,7 +6,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
 ![Bitbucket  issues](https://img.shields.io/github/issues-closed/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
 
-## :watermelon: 简介
+## :watermelon: [简介](https://www.coze.cn/s/iBeHdaDv/)
 
 > :corn: 此项目为自学数学建模和机器学习的分享，整理了许多笔记和资料（**持续更新中......**）。
 >
