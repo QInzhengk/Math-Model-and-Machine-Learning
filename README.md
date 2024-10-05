@@ -58,7 +58,7 @@ filetree
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/230b5fe6bb8222010d9102938d29e7280858c130/picture/qrcode_for_gh_ab9473c83c90_258.jpg)
 
-数学建模与人工智能学习交流群：970716977（已满）
+数学建模与人工智能学习交流群：970716977
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/main/picture/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AB%9E%E8%B5%9B%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
