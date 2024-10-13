@@ -68,8 +68,6 @@ filetree
 
 淘宝京东拼多多优惠券和返利群：347158692
 
-![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/a09fa94af40ad5eacb2f67b64209ad32dee24a40/picture/%E6%B7%98%E5%AE%9D%E4%BA%AC%E4%B8%9C%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%BC%98%E6%83%A0%E5%88%B8%E5%92%8C%E8%BF%94%E5%88%A9%E7%BE%A4.jpg)
-
 ## :triangular_flag_on_post: 数学建模索引
 
 ### [各种数模比赛的优秀论文](./数学建模/国赛数学建模竞赛)
