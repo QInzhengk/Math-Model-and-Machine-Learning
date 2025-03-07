@@ -62,7 +62,7 @@ filetree
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/main/picture/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%AB%9E%E8%B5%9B%E4%BA%A4%E6%B5%81%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
-数学建模与人工智能学习交流群2：636234173
+人工智能大模型学习交流群：636234173
 
 ![image](https://github.com/QInzhengk/Math-Model-and-Machine-Learning/blob/1ffd800b44c16ab1307c017d60a008c5e4e704d1/picture/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD_QQ%E9%A2%91%E9%81%93.jpg)
 
