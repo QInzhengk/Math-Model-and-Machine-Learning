@@ -7,3 +7,5 @@
 - [https://www.datawhale.cn/learn/summary/40](https://www.datawhale.cn/learn/summary/40)
 - [https://www.trae.com.cn/?utm_campaign=r1](https://www.trae.com.cn/?utm_campaign=r1)
 - [https://github.com/mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
+- [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
+- [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
