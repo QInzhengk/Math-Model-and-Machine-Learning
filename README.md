@@ -1,4 +1,4 @@
-# 数学建模与机器学习
+# 数学建模与人工智能（机器学习/深度学习/大模型）
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/QInzhengk/Math-Model-and-Machine-Learning?style=for-the-badge)
@@ -8,11 +8,11 @@
 
 ## :watermelon: [简介](https://www.coze.cn/s/iBeHdaDv/)
 
-> :corn: 此项目为自学数学建模和机器学习的分享，整理了许多笔记和资料（**持续更新中......**）。
+> :corn: 此项目为自学数学建模和人工智能（机器学习/深度学习/大模型）的分享，整理了许多笔记和资料（**持续更新中......**）。
 >
 > :tomato: 高考数学144；全国大学生数学竞赛一等奖（预赛）；华为杯中国研究生数学建模竞赛一等奖。
 >
-> :eggplant: 现在将此项目开源，以帮助更多数学建模和机器学习初学者，祝愿大家都能取得好成绩！如果觉得有用，请点个star 吧！感谢！！
+> :eggplant: 现在将此项目开源，以帮助更多数学建模和人工智能（机器学习/深度学习/大模型）初学者，祝愿大家都能取得好成绩！如果觉得有用，请点个star 吧！感谢！！
 >
 > :sweet_potato: 同时，也欢迎大家PR，共同将这个项目壮大！
 
