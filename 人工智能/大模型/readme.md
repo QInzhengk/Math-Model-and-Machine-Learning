@@ -6,3 +6,4 @@
 - [https://github.com/camel-ai/owl](https://github.com/camel-ai/owl)
 - [https://www.datawhale.cn/learn/summary/40](https://www.datawhale.cn/learn/summary/40)
 - [https://www.trae.com.cn/?utm_campaign=r1](https://www.trae.com.cn/?utm_campaign=r1)
+- [https://github.com/mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
