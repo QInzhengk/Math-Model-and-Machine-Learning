@@ -10,3 +10,7 @@
 - [https://github.com/mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus)
 - [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [https://github.com/ollama/ollama](https://github.com/ollama/ollama)
+## 大模型教程
+- [https://opencsg.com/models](https://opencsg.com/models)
+- [https://datawhalechina.github.io/handy-ollama/#/](https://datawhalechina.github.io/handy-ollama/#/)
+- [https://moyanxinxu.github.io/unlock-hf/](https://moyanxinxu.github.io/unlock-hf/)
