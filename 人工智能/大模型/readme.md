@@ -1,4 +1,5 @@
-
+## 大模型AI人工智能视频
+- [LLM大语言模型算法特训](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
 ## 大模型官网
 - [扣子](https://www.coze.cn/)
 - [腾讯元器](https://yuanqi.tencent.com/agent-shop)
