@@ -1,0 +1,10 @@
+网址：https://www.dcic-china.com/competitions/10173/datasets
+name:名称，
+senid：站点id，
+time：时间，
+v：值，
+avgv：平均值，
+MAXV：最大值，
+MAXT：最大值发生时间，
+MINV：最小值，
+MINT：最小值发生时间
