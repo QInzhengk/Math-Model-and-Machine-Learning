@@ -30,6 +30,10 @@
 ### Mac
 - [notion-zh_CN-main](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [EasyConnect_7_6_7_3](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+### C#
+- [C#速成指南：从入门到进阶，实战WPF与Unity3D开发](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [C#上位机实战开发指南](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [C#6.0 VISUALSTUDIO 2015  C#入门经典  第7版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### Java
 - [myeclipse](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [vc++6.0安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
@@ -45,6 +49,8 @@
 - - [Java求职面试宝典（157页）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [Java从入门到精通（第5版）PPT](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [Java 开发资源库](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Java高级工程师](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Java工程师](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### EndNoteX9
 ### 编程必备基础 计算机组成原理+操作系统+计算机网络
 ### Adobe
