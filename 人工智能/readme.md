@@ -16,4 +16,7 @@
 - [超参数调优：网格搜索，贝叶斯优化（optuna）详解](https://zhuanlan.zhihu.com/p/693674773)
 ## 
 - [Tabnet介绍（Decision Manifolds）和PyTorch TabNet之TabNetRegressor](https://zhuanlan.zhihu.com/p/1894106280454518386)
-
+- [LightGBM原生接口和Sklearn接口参数详解](https://zhuanlan.zhihu.com/p/693626487)
+- [XGBoost原生接口和Sklearn接口参数详解](https://zhuanlan.zhihu.com/p/693671857)
+- [CatBoost原生接口和Sklearn接口参数详解](https://zhuanlan.zhihu.com/p/707080667)
+- [概率预测之NGBoost（Natural Gradient Boosting）回归和分位数（Quantile Regression）回归](https://zhuanlan.zhihu.com/p/31898139608)
