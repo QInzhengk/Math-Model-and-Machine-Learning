@@ -13,6 +13,7 @@
 ## 调参
 - [深度学习中的超参数调节（learning rate、epochs、batch-size...）](https://zhuanlan.zhihu.com/p/433836153)
 - [决策树、随机森林、GBDT、LightGBM和XGBoost的重要参数以及调整策略](https://zhuanlan.zhihu.com/p/418992334)
-
-
+- [超参数调优：网格搜索，贝叶斯优化（optuna）详解](https://zhuanlan.zhihu.com/p/693674773)
+## 
+- [Tabnet介绍（Decision Manifolds）和PyTorch TabNet之TabNetRegressor](https://zhuanlan.zhihu.com/p/1894106280454518386)
 
