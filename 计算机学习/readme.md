@@ -34,6 +34,13 @@
 - [C#速成指南：从入门到进阶，实战WPF与Unity3D开发](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [C#上位机实战开发指南](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [C#6.0 VISUALSTUDIO 2015  C#入门经典  第7版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+### Git
+- [GithubDesktop汉化工具(免更新)](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Git-2.49.0-64-bit](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [GitHubDesktopSetup-x64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+### Docker
+- [DockerDesktop-4.41.0-Windows-x86](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [app-Windows-x86](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### Java
 - [myeclipse](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [vc++6.0安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
