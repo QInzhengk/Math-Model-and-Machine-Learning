@@ -94,3 +94,5 @@ P(Mi) 为 i 时刻的实际功率；P(pi) 为 i 时刻的预测值；n 为一天
 ![img](https://openres.xfyun.cn/xfyundoc/2025-07-02/d9155531-a416-4cf8-b3fe-ad402d1f9fd1/1751428865114/%E5%9B%BE%E7%89%876.png)
 
 式中Nf为统计场站数，Cf为单场站准确率，最终准确率是所有场站准确率的平均值。
+
+[https://challenge.xfyun.cn/topic/info?type=renewable-power-forecast](https://challenge.xfyun.cn/topic/info?type=renewable-power-forecast)
