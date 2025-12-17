@@ -22,7 +22,7 @@
 - [ ] 数学建模竞赛题目和优秀论文
 - [ ] 人工智能
 
-## :whale: [博客](https://github.com/qzkq/qzkq.github.io)
+## :whale: [博客](https://qinzhengk.github.io/the-milky-way/)
 
 [一、幸运藏在努力里](https://qzkq.github.io/)
 
