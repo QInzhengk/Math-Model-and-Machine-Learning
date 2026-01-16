@@ -1,5 +1,12 @@
 ## 大模型AI人工智能视频
 - [LLM大语言模型算法特训](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+- [AI智能体从0到1开发实战（Dify版）](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+- [Deepseek从0到1实战精通，效率飙升N倍](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+- [AI绘画小红书训练营，Deepseek绘画+小红书自媒体变现全流程](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+## 大模型pdf
+- [大模型应用开发：动手做AI Agent](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+- [动手学Pytorch建模与应用：从深度学习到大模型](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
+- [AI Agent开发与应用：基于大模型的智能体构建](https://mp.weixin.qq.com/s/aDiHmsU7SvqfdlNDRzU7kQ)
 ## 大模型官网
 - [扣子](https://www.coze.cn/)
 - [腾讯元器](https://yuanqi.tencent.com/agent-shop)
@@ -18,3 +25,8 @@
 - [Transformer；Hugging Face之transformers库、datasets库详解](https://zhuanlan.zhihu.com/p/1889029387585832137)
 - [Ollama详解，无网环境导入运行本地下载的大模型，无网环境pycharm插件大模型调用、Ollama Python api](https://zhuanlan.zhihu.com/p/31897030216)
 - [大模型接入微信公众号、QQ频道/群/个人 自动回复（专业领域），智能体（扣子，腾讯元器/QQ开放平台）](https://zhuanlan.zhihu.com/p/29814923444)
+- [大模型技术全景与核心概念解析：从基础原理到AI智能体架构](https://mp.weixin.qq.com/s/ScurHap1J4Le6_cPf_TSGw)
+- [Windows Docker部署PaddleOCR-VL：基于Blackwell架构GPU与vLLM的高性能VLM配置指南](https://mp.weixin.qq.com/s/aEt1K_2A7jjHQFyLowGlqQ)
+- [MinerU PDF解析工具：从安装配置到本地部署与API调用的全流程指南](https://mp.weixin.qq.com/s/KLDzvCgFXzg0qaI4HWlArA)
+- [PaddleOCR全版本完整指南：从入门到精通，全面解析安装部署与高级应用](https://mp.weixin.qq.com/s/PNn_PzQdgHFDzS7hpZwPLQ)
+- [VitePress静态网站从零搭建到GitHub Pages部署一站式指南和DeepWiki：AI 驱动的下一代代码知识平台](https://mp.weixin.qq.com/s/36g28Pk8m_0oNc0T6QUVMQ)
