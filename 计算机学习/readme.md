@@ -7,6 +7,8 @@
 - [BANDIZIP6-SETUP](https://zhuanlan.zhihu.com/p/354261429)
 - [typora-0-11-18](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [Pandoc 3.2.1](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+### Linux
+- [Linux实战技能100讲](https://zhuanlan.zhihu.com/p/266208121)
 ### SPSS
 - [SPSS 24 64位安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - - [SPSS+22.0统计分析从入门到精通（视频+数据）](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
@@ -42,6 +44,8 @@
 - [DockerDesktop-4.41.0-Windows-x86](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [app-Windows-x86](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ### Java
+- [Java高级工程师](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [Java亿级项目架构设计与落地应用](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [myeclipse](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [vc++6.0安装包](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [jdk-8u251-windows-x64](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
