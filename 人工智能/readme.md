@@ -12,6 +12,7 @@
 - [Python全能工程师2022版](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [PyTorch入门到进阶 实战计算机视觉与自然语言处理项目](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 - [PyTorch深度学习开发医学影像端到端判别](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
+- [AI 人工智能算法工程师](https://mp.weixin.qq.com/s/TgrrypEAvVYAgVOckgIhUQ)
 ## 调参
 - [深度学习中的超参数调节（learning rate、epochs、batch-size...）](https://zhuanlan.zhihu.com/p/433836153)
 - [决策树、随机森林、GBDT、LightGBM和XGBoost的重要参数以及调整策略](https://zhuanlan.zhihu.com/p/418992334)
