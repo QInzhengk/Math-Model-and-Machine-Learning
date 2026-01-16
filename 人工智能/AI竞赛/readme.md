@@ -8,3 +8,5 @@
 - [更多风电光伏相关竞赛](https://github.com/QInzhengk/Wind-and-PV-AI-competitions)
 - [数据科学竞赛：你从未见过的究极进化秘笈！](https://mp.weixin.qq.com/s/pijp7pASWM9awUgt12Y3fg)
 - [https://github.com/PacktPublishing/The-Kaggle-Book](https://github.com/PacktPublishing/The-Kaggle-Book)
+- [LightGBM、XGBoost和CatBoost自定义损失函数和评估指标](https://mp.weixin.qq.com/s/Z6UO37fm7ETlLcJkm24NDA)
+- [风电光伏功率预测竞赛精华总结：技术解析与实战经验](https://mp.weixin.qq.com/s/iJYi6rfoPbLj_w0EOOglDQ?payreadticket=HPruDwReGRWaGtxzkbQ5g4fgNsz4I3t3oCthUMHRXIl4jBbiRqwjxosA3XYruAULHoYuOJQ)
