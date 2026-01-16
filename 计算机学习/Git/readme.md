@@ -1,1 +1,1 @@
-
+- [VitePress静态网站从零搭建到GitHub Pages部署一站式指南和DeepWiki：AI 驱动的下一代代码知识平台](https://mp.weixin.qq.com/s/36g28Pk8m_0oNc0T6QUVMQ)
