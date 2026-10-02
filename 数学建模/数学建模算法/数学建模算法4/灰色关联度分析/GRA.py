@@ -68,7 +68,7 @@ def ShowGRAHeatMap(DataFrame):
     # mask[np.triu_indices_from(mask)] = True
 
     with sns.axes_style("white"):
-        sns.heatmap(DataFrame,
+        sns.heatmap(DataFrame.astype(float),
                     cmap="YlGnBu",
                     annot=True,
                     mask=mask,
